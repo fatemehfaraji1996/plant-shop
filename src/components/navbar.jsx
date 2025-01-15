@@ -11,6 +11,8 @@ export default function Background() {
         total + parseFloat(item.offPrice ? item.offPrice : item.price),
       0
     )
+
+    
     .toFixed(2);
   console.log(totalPrice);
   return (
