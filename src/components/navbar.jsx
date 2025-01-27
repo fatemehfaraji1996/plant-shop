@@ -26,7 +26,7 @@ export default function Background() {
               home{" "}
             </NavLink>
             <a href="#" className="menu-item">
-              About Us
+              About Us 
             </a>
             <a href="#" className="menu-item">
               Contact Us
